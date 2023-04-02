@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3d0d6746f9cdb324f86c8df5320c0385
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _myanimator: {instanceID: 0}
+  - alien: {fileID: 8300000, guid: bc33eae9b2a35f748be5672c534f51b9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

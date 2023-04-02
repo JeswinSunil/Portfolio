@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d0a8143ae8c786b4092995ad10718d94
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fpscam: {instanceID: 0}
+  - gunshot: {fileID: 8300000, guid: a420056d282dd3c4eaae9bf618a7728c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
